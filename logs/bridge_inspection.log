@@ -1,0 +1,13 @@
+[
+    {
+        "Name": "bridge",
+        "Id": "abcd1234efgh5678ijkl",
+        "Driver": "bridge",
+        "Containers": {
+            "mysql_server": {
+                "Name": "mysql_server",
+                "IPv4Address": "172.17.0.2/16"
+            }
+        }
+    }
+]
